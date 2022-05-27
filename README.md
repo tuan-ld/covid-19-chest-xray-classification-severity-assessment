@@ -28,8 +28,11 @@ The coronavirus pandemic started in Wuhan, China in December 2019, and put milli
 If you find this code useful in your research, please consider citing:
 
     @article{efficientunet++,
-	       Author = {T. L. Dinh, S.-G. Kwon, S.-H. Lee, and K.-R. Kwon},
+	Author = {T. L. Dinh, S.-G. Kwon, S.-H. Lee, and K.-R. Kwon},
         Title = {COVID-19 Chest X-ray Classification and Severity Assessment Using Convolutional and Transformer Neural   Networks},
         Journal  = { Applied Sciences},
-        Year = {2022}
+        Year = {2022},
+	Volumne = {12},
+	Page = {4861},
+	DOI = {https://doi.org/10.3390/app12104861}
     }
