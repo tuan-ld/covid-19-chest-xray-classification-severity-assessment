@@ -32,7 +32,7 @@ If you find this code useful in your research, please consider citing:
         Title = {COVID-19 Chest X-ray Classification and Severity Assessment Using Convolutional and Transformer Neural   Networks},
         Journal  = { Applied Sciences},
         Year = {2022},
-	Volumne = {12},
+	Volume = {12},
 	Page = {4861},
 	DOI = {https://doi.org/10.3390/app12104861}
     }
